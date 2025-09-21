@@ -1,0 +1,15 @@
+-I/home/luizfelipe/ike/source
+-I/home/luizfelipe/ike/source/ikec
+-I/home/luizfelipe/ike/source/iked
+-I/home/luizfelipe/ike/source/libike
+-I/home/luizfelipe/ike/source/libidb
+-I/home/luizfelipe/ike/source/libith
+-I/home/luizfelipe/ike/source/liblog
+-I/home/luizfelipe/ike/source/libip
+-DUNIX
+-DOPT_TIMEDLOCK
+-DOPT_NATT
+-DQT_THREAD_SUPPORT
+-o
+/home/luizfelipe/ike/source/qikec/moc_qikec.cpp
+/home/luizfelipe/ike/source/qikec/qikec.h
